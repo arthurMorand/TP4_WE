@@ -25,3 +25,8 @@ npm start
 
 C'est l'équivalent de l'ensemble des fonctionnalités demandées au TP 4 avec une fonctionnalité supplémentaire : une page
 détail pour chaque bière.
+
+## Auteurs
+- Enzo LEROYER
+- Lucas LEPREVOST
+- Arthur MORAND
